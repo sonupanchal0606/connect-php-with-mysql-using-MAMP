@@ -14,3 +14,10 @@ Steps involved
 8) create the database that you want to connect with
 9) Open new tab with "http://localhost:8888/" ---> it will show the php/html files. click on the file to exdcute them..
     
+
+# To Access MAMP's MySQL from Mac Terminal
+1) start mysql server from MAMP
+2) cd /Applications/MAMP/Library/bin ---> ./mysql -uUSERNAME -pPASSWORD
+3) in ourcase ./mysql -uroot -proot. you can check for password from http://localhost:8888/MAMP/?language=English# page
+
+   
